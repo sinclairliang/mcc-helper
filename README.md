@@ -1,7 +1,9 @@
 ## MCC Helper
 
-npm
-license
+[![npm version](https://img.shields.io/npm/v/mcc-helper)](https://www.npmjs.com/package/your-package-name)
+
+[![License](https://img.shields.io/github/license/sinclairliang/mcc-helper)](https://github.com/user/repo/blob/main/LICENSE)
+
 
 **MCC Helper**is a utility library designed to assist in fetching and interpreting Merchant Category Codes (MCC) across various card networks.
 
