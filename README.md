@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/sinclairliang/mcc-helper)](https://github.com/sinclair/mcc-helper/blob/main/LICENSE)
 
 
-**MCC Helper**is a utility library designed to assist in fetching and interpreting Merchant Category Codes (MCC) across various card networks.
+**MCC Helper** is a utility library designed to assist in fetching and interpreting Merchant Category Codes (MCC) across various card networks.
 
 ### Features
 🛍️ Retrieve human-readable descriptions for MCC codes.
