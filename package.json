@@ -1,0 +1,20 @@
+{
+  "name": "mcc-helper",
+  "version": "1.0.0",
+  "description": "A simple, lightweight, fast way to get MCC vendor information",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "ts-node-dev --exit-child src/index.ts",
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "author": "Sinclair Liang",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
